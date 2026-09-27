@@ -1,0 +1,624 @@
+{
+  "title": "The history of Newton's laws of motion",
+  "tagline": "From Aristotle's 'everything needs a pusher' to a hammer and a feather falling side by side on the Moon: 2,300 years of working out why things move.",
+  "intro": "For about two thousand years, most thinkers followed Aristotle: a moving thing keeps moving only while something pushes it. A few doubters, from Alexandria to Persia to Paris, wondered what kept a thrown stone flying. Galileo, Descartes and Huygens cracked the puzzle open, Newton wrote three short laws in 1687, and later scientists turned them into equations, found where they stop working, and used them to fly to the Moon and Mars.",
+  "eras": [
+    {
+      "id": "movers",
+      "name": "Why do things move?",
+      "from": -350,
+      "to": 1400,
+      "color": "#c49bff",
+      "summary": "Aristotle says every motion needs a mover. Philoponus, Ibn Sina and Buridan argue that a thrown object carries its push along with it."
+    },
+    {
+      "id": "newscience",
+      "name": "The new science",
+      "from": 1600,
+      "to": 1680,
+      "color": "#8ef0ff",
+      "summary": "Galileo rolls balls down ramps, Descartes states the law of inertia, and Huygens works out what happens when things collide."
+    },
+    {
+      "id": "principia",
+      "name": "Newton's Principia",
+      "from": 1684,
+      "to": 1759,
+      "color": "#ffb547",
+      "summary": "A question from Halley leads to Newton's three laws, and du Châtelet brings them to French readers."
+    },
+    {
+      "id": "equations",
+      "name": "Equations and limits",
+      "from": 1750,
+      "to": 1948,
+      "color": "#5ce1a9",
+      "summary": "Euler, Lagrange and Hamilton turn the laws into powerful equations. Einstein and quantum physics find where they stop working, and the unit of force gets Newton's name."
+    },
+    {
+      "id": "space",
+      "name": "Tested in space",
+      "from": 1957,
+      "to": 2026,
+      "color": "#ff7a90",
+      "summary": "Satellites, Moon landings and Mars missions put Newton's laws to the ultimate test."
+    }
+  ],
+  "events": [
+    {
+      "year": -350,
+      "date": "c. 350 BCE",
+      "era": "movers",
+      "art": "scroll",
+      "key": true,
+      "title": "Everything needs a mover",
+      "who": "Aristotle",
+      "where": "Athens, Greece",
+      "country": "Greece",
+      "text": "Aristotle taught that a stone falls because it is heading for its natural place, and that anything pushed sideways moves only while something keeps pushing it. To explain why an arrow keeps flying, he said the air behind it pushes it on. He also thought heavier things fall faster.",
+      "why": "His ideas ruled for about two thousand years, and every later step was an argument with them.",
+      "sources": [
+        2,
+        0
+      ]
+    },
+    {
+      "year": 515,
+      "date": "Early 500s",
+      "era": "movers",
+      "art": "quill",
+      "title": "The push goes with the stone",
+      "who": "John Philoponus",
+      "where": "Alexandria, Egypt",
+      "country": "Egypt",
+      "text": "In his commentary on Aristotle's Physics, Philoponus said air cannot keep a thrown stone moving. Instead, the thrower gives the stone a force of its own. He also said that if you drop a heavy and a light weight together, they land at almost the same time.",
+      "why": "It was the first clear break with Aristotle's idea that air does the pushing.",
+      "sources": [
+        3,
+        4
+      ]
+    },
+    {
+      "year": 1020,
+      "date": "c. 1014–1020",
+      "era": "movers",
+      "art": "inkpot",
+      "title": "A push that lasts in empty space",
+      "who": "Ibn Sina (Avicenna)",
+      "where": "Persia (today's Iran)",
+      "country": "Iran",
+      "text": "In The Book of Healing, Ibn Sina described a 'mayl', an inclination given to a thrown object. He argued that it is used up only by things like air resistance, so in a vacuum a moving object would never stop.",
+      "why": "It came remarkably close to the idea of inertia, six centuries before Galileo.",
+      "sources": [
+        4,
+        5
+      ]
+    },
+    {
+      "year": 1350,
+      "date": "c. 1340s–1350s",
+      "era": "movers",
+      "art": "word",
+      "title": "Impetus",
+      "who": "Jean Buridan",
+      "where": "University of Paris",
+      "country": "France",
+      "text": "Buridan taught that a thrower puts 'impetus' into a stone, and the stone keeps moving until air resistance and weight wear it away. He said more weight and more speed meant more impetus.",
+      "why": "Impetus is a close cousin of what we now call momentum.",
+      "sources": [
+        4,
+        6
+      ]
+    },
+    {
+      "year": 1638,
+      "date": "1638",
+      "era": "newscience",
+      "art": "road",
+      "key": true,
+      "title": "Balls rolling down ramps",
+      "who": "Galileo Galilei",
+      "where": "Published in Leiden, Dutch Republic",
+      "country": "Italy",
+      "text": "Galileo timed balls rolling down gentle ramps using a water clock, and showed that falling things speed up steadily. He saw that a ball rolling on a level surface would keep going if nothing slowed it. The famous story of him dropping balls from the Leaning Tower of Pisa is probably a legend.",
+      "why": "His book Two New Sciences replaced arguments about motion with measurements.",
+      "sources": [
+        7,
+        8
+      ]
+    },
+    {
+      "year": 1644,
+      "date": "1644",
+      "era": "newscience",
+      "art": "word",
+      "key": true,
+      "title": "Straight on, for ever",
+      "who": "René Descartes",
+      "where": "Amsterdam, Dutch Republic",
+      "country": "France",
+      "text": "In his Principles of Philosophy, Descartes wrote down laws of nature. A thing stays at rest or keeps moving until something changes it, and on its own it moves in a straight line.",
+      "why": "It was the law of inertia stated in print, and Newton made it his first law.",
+      "sources": [
+        9
+      ]
+    },
+    {
+      "year": 1656,
+      "date": "1656 (shared 1669, printed 1703)",
+      "era": "newscience",
+      "art": "pendulum",
+      "title": "What happens when things collide",
+      "who": "Christiaan Huygens",
+      "where": "The Hague",
+      "country": "Netherlands",
+      "text": "Huygens worked out the correct rules for bouncy collisions in 1656 and told the Royal Society about them in 1669. His full book on collisions was printed only in 1703, after his death. In 1659 he also found the formula for the outward pull you feel going round a curve.",
+      "why": "His collision rules are the ideas behind Newton's third law and momentum.",
+      "sources": [
+        10
+      ]
+    },
+    {
+      "year": 1684,
+      "date": "August–November 1684",
+      "era": "principia",
+      "art": "earth",
+      "title": "Halley asks a question",
+      "who": "Edmond Halley and Isaac Newton",
+      "where": "Cambridge, England",
+      "country": "United Kingdom",
+      "text": "Halley visited Newton to ask what path a planet would follow if the Sun's pull weakened with distance. Newton said he had already worked it out. In November he sent Halley a short paper, De motu corporum in gyrum, which grew into a whole book.",
+      "why": "Without Halley's question, the Principia might never have been written.",
+      "sources": [
+        1
+      ]
+    },
+    {
+      "year": 1687,
+      "date": "5 July 1687",
+      "era": "principia",
+      "art": "apple",
+      "key": true,
+      "title": "The Principia",
+      "who": "Isaac Newton, with Edmond Halley",
+      "where": "London, England",
+      "country": "United Kingdom",
+      "text": "Newton's Principia opened with three laws of motion, written in Latin: inertia, force changing motion, and every action having an equal and opposite reaction. Halley edited the book and paid for the printing himself. The same laws explained falling apples, tides and planets.",
+      "why": "For the first time one set of rules covered motion on Earth and in the sky.",
+      "sources": [
+        1,
+        11,
+        24,
+        0
+      ]
+    },
+    {
+      "year": 1750,
+      "date": "1750 (printed 1752)",
+      "era": "equations",
+      "art": "nib",
+      "key": true,
+      "title": "F = ma becomes an equation",
+      "who": "Leonhard Euler",
+      "where": "Berlin",
+      "country": "Prussia (Germany)",
+      "text": "Newton wrote his second law in words and geometry. In a paper for the Berlin Academy, Euler wrote it as equations, one for each direction, and showed they work for every tiny piece of any object, even a spinning one.",
+      "why": "This is the first appearance of F = ma in the general form students use today.",
+      "sources": [
+        13
+      ]
+    },
+    {
+      "year": 1759,
+      "date": "1756 (partial), 1759 (complete)",
+      "era": "principia",
+      "art": "fountainpen",
+      "title": "Newton in French",
+      "who": "Émilie du Châtelet",
+      "where": "Paris",
+      "country": "France",
+      "text": "Du Châtelet translated the Principia into French and added her own commentary, finishing just before she died in 1749. It was published in part in 1756 and in full in 1759.",
+      "why": "It helped Newton's ideas win over Europe, and it is still the standard French translation.",
+      "sources": [
+        12
+      ]
+    },
+    {
+      "year": 1788,
+      "date": "1788",
+      "era": "equations",
+      "art": "scroll",
+      "title": "Mechanics without pictures",
+      "who": "Joseph-Louis Lagrange",
+      "where": "Paris",
+      "country": "France (born in Turin, Italy)",
+      "text": "Lagrange's Mécanique analytique rebuilt Newton's mechanics using energy and pure algebra. He proudly said the book had no diagrams at all.",
+      "why": "His method makes hard problems, like a swinging chain of pendulums, much easier to solve.",
+      "sources": [
+        14
+      ]
+    },
+    {
+      "year": 1833,
+      "date": "1833–1835",
+      "era": "equations",
+      "art": "keys",
+      "title": "Hamilton's version",
+      "who": "William Rowan Hamilton",
+      "where": "Dublin",
+      "country": "Ireland",
+      "text": "Hamilton found another way to write mechanics, based on positions and momenta instead of forces. It gives exactly the same answers as Newton's laws.",
+      "why": "His form of mechanics later became the starting point for quantum physics.",
+      "sources": [
+        15
+      ]
+    },
+    {
+      "year": 1903,
+      "date": "1903",
+      "era": "equations",
+      "art": "rocket",
+      "key": true,
+      "title": "The rocket equation",
+      "who": "Konstantin Tsiolkovsky",
+      "where": "Kaluga",
+      "country": "Russia",
+      "text": "Tsiolkovsky, a schoolteacher, used Newton's laws to work out how fast a rocket can go by throwing its fuel out of the back. He showed rockets could reach the speeds needed for spaceflight. A British mathematician, William Moore, had found the same formula back in 1810 to 1813.",
+      "why": "Every space launch is planned with his equation, which is Newton's third law put to work.",
+      "sources": [
+        16
+      ]
+    },
+    {
+      "year": 1905,
+      "date": "26 September 1905",
+      "era": "equations",
+      "art": "bolt",
+      "title": "Too fast for Newton",
+      "who": "Albert Einstein",
+      "where": "Bern",
+      "country": "Switzerland",
+      "text": "While working at the patent office, Einstein published special relativity. Near the speed of light, Newton's laws give the wrong answers: an object's momentum grows without limit, so it can never reach light speed.",
+      "why": "It showed Newton's laws are a superb approximation for everyday speeds, not the final word.",
+      "sources": [
+        17
+      ]
+    },
+    {
+      "year": 1925,
+      "date": "1925–1926",
+      "era": "equations",
+      "art": "atomspin",
+      "title": "Too small for Newton",
+      "who": "Werner Heisenberg and Erwin Schrödinger",
+      "where": "Göttingen and Zürich",
+      "country": "Germany and Switzerland",
+      "text": "Inside atoms, electrons do not follow neat Newtonian paths. Heisenberg in 1925 and Schrödinger in 1926 found new rules, quantum mechanics, for the very small.",
+      "why": "It marked the second border of Newton's world, the size of atoms.",
+      "sources": [
+        18
+      ]
+    },
+    {
+      "year": 1948,
+      "date": "1948",
+      "era": "equations",
+      "art": "scales",
+      "key": true,
+      "title": "A unit called the newton",
+      "who": "9th General Conference on Weights and Measures",
+      "where": "Sèvres, near Paris",
+      "country": "France",
+      "text": "The world's measurement conference gave the unit of force the name 'newton', symbol N. One newton speeds up a 1 kg mass by 1 metre per second, every second.",
+      "why": "Every force in science and engineering is now measured in newtons.",
+      "sources": [
+        19,
+        20
+      ]
+    },
+    {
+      "year": 1957,
+      "date": "4 October 1957",
+      "era": "space",
+      "art": "earth",
+      "title": "A moon made by people",
+      "who": "Soviet space programme, Sputnik 1",
+      "where": "Baikonur Cosmodrome, Kazakh SSR",
+      "country": "USSR (today's Kazakhstan)",
+      "text": "A rocket pushed hot gas backwards and was pushed forwards in return, lifting Sputnik 1 into orbit. From then on, the satellite kept falling towards Earth but moved sideways fast enough to keep missing it.",
+      "why": "It was the first human-made object to orbit Earth, steered entirely by Newton's laws.",
+      "sources": [
+        21
+      ]
+    },
+    {
+      "year": 1971,
+      "date": "2 August 1971",
+      "era": "space",
+      "art": "hammer",
+      "key": true,
+      "title": "A hammer and a feather on the Moon",
+      "who": "David Scott, Apollo 15",
+      "where": "Hadley–Apennine landing site, the Moon",
+      "country": "United States",
+      "text": "Standing on the Moon, where there is no air, Scott dropped a 1.32 kg hammer and a 0.03 kg falcon feather at the same moment. They hit the ground together, live on television.",
+      "why": "It proved on another world what Galileo and Newton said: without air, gravity speeds up everything equally.",
+      "sources": [
+        22,
+        25
+      ]
+    },
+    {
+      "year": 2014,
+      "date": "24 September 2014",
+      "era": "space",
+      "art": "rocket",
+      "key": true,
+      "title": "Mangalyaan reaches Mars",
+      "who": "ISRO, Mars Orbiter Mission",
+      "where": "Launched from Sriharikota",
+      "country": "India",
+      "text": "India's PSLV rocket was too small to fling the spacecraft straight to Mars. So it circled Earth, firing its engine seven times to stretch its orbit, then set off on a 298-day coast to Mars.",
+      "why": "It made India the first Asian nation to reach Mars orbit, using Newton's laws to save fuel.",
+      "sources": [
+        23
+      ]
+    }
+  ],
+  "firsts": [
+    {
+      "label": "Thrown objects carry their own force",
+      "value": "Early 500s",
+      "who": "John Philoponus, Egypt"
+    },
+    {
+      "label": "Law of inertia stated in print",
+      "value": "1644",
+      "who": "René Descartes, France"
+    },
+    {
+      "label": "Correct rules for elastic collisions",
+      "value": "1656",
+      "who": "Christiaan Huygens, Netherlands"
+    },
+    {
+      "label": "Three laws of motion together",
+      "value": "1687",
+      "who": "Isaac Newton, England"
+    },
+    {
+      "label": "F = ma in general form",
+      "value": "1750",
+      "who": "Leonhard Euler, Switzerland"
+    },
+    {
+      "label": "Rocket equation applied to spaceflight",
+      "value": "1903",
+      "who": "Konstantin Tsiolkovsky, Russia"
+    },
+    {
+      "label": "Unit of force named the newton",
+      "value": "1948",
+      "who": "9th CGPM, France"
+    },
+    {
+      "label": "Hammer and feather dropped on the Moon",
+      "value": "1971",
+      "who": "David Scott, USA"
+    }
+  ],
+  "people": [
+    {
+      "name": "Aristotle",
+      "life": "384 – 322 BCE",
+      "role": "Philosopher",
+      "from": "Greece",
+      "note": "Taught that every motion needs a mover, an idea that lasted two thousand years."
+    },
+    {
+      "name": "John Philoponus",
+      "life": "c. 490 – c. 570",
+      "role": "Philosopher",
+      "from": "Alexandria, Egypt",
+      "note": "Argued that a thrower gives a stone its own force, not the air."
+    },
+    {
+      "name": "Galileo Galilei",
+      "life": "1564 – 1642",
+      "role": "Physicist and astronomer",
+      "from": "Italy",
+      "note": "Measured falling motion with ramps and water clocks, and saw that motion continues unless something stops it."
+    },
+    {
+      "name": "René Descartes",
+      "life": "1596 – 1650",
+      "role": "Philosopher and mathematician",
+      "from": "France",
+      "note": "First printed the rule that things keep moving in a straight line."
+    },
+    {
+      "name": "Christiaan Huygens",
+      "life": "1629 – 1695",
+      "role": "Physicist and mathematician",
+      "from": "Netherlands",
+      "note": "Solved collisions and the pull of circular motion before Newton."
+    },
+    {
+      "name": "Isaac Newton",
+      "life": "1643 – 1727",
+      "role": "Mathematician and physicist",
+      "from": "England",
+      "note": "Wrote the three laws of motion and the law of gravity in the Principia."
+    },
+    {
+      "name": "Edmond Halley",
+      "life": "1656 – 1742",
+      "role": "Astronomer",
+      "from": "England",
+      "note": "Asked the question that started the Principia, then edited it and paid to print it."
+    },
+    {
+      "name": "Émilie du Châtelet",
+      "life": "1706 – 1749",
+      "role": "Mathematician and physicist",
+      "from": "France",
+      "note": "Translated the Principia into French with her own commentary."
+    },
+    {
+      "name": "Leonhard Euler",
+      "life": "1707 – 1783",
+      "role": "Mathematician",
+      "from": "Switzerland",
+      "note": "Turned Newton's second law into the equations used today."
+    },
+    {
+      "name": "Konstantin Tsiolkovsky",
+      "life": "1857 – 1935",
+      "role": "Schoolteacher and rocket pioneer",
+      "from": "Russia",
+      "note": "Showed with Newton's laws that rockets could reach space."
+    }
+  ],
+  "series": [],
+  "facts": [
+    "Newton wrote the Principia in Latin, and its laws section is headed 'Axiomata, sive Leges Motus': axioms, or laws of motion.",
+    "Edmond Halley, not the Royal Society, paid for the Principia to be printed.",
+    "Only about 500 copies of the first Principia were probably printed.",
+    "One newton is about the weight of a 102 g mass on Earth, roughly a small apple.",
+    "Lagrange boasted that his great book on mechanics contained not a single diagram.",
+    "The feather David Scott dropped on the Moon was a falcon feather, a nod to Apollo 15's lunar module, which was named Falcon.",
+    "India's Mangalyaan cost about ₹450 crore. Prime Minister Narendra Modi pointed out that, at about ₹7 a kilometre, the trip to Mars cost less per kilometre than an auto-rickshaw ride."
+  ],
+  "sources": [
+    {
+      "title": "Newton's laws of motion",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Newton%27s_laws_of_motion"
+    },
+    {
+      "title": "Philosophiæ Naturalis Principia Mathematica",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Philosophi%C3%A6_Naturalis_Principia_Mathematica"
+    },
+    {
+      "title": "Aristotelian physics",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Aristotelian_physics"
+    },
+    {
+      "title": "John Philoponus",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/John_Philoponus"
+    },
+    {
+      "title": "Theory of impetus",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Theory_of_impetus"
+    },
+    {
+      "title": "The Book of Healing",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/The_Book_of_Healing"
+    },
+    {
+      "title": "Jean Buridan",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Jean_Buridan"
+    },
+    {
+      "title": "Two New Sciences",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Two_New_Sciences"
+    },
+    {
+      "title": "Galileo's Leaning Tower of Pisa experiment",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Galileo%27s_Leaning_Tower_of_Pisa_experiment"
+    },
+    {
+      "title": "Principles of Philosophy",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Principles_of_Philosophy"
+    },
+    {
+      "title": "Christiaan Huygens",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Christiaan_Huygens"
+    },
+    {
+      "title": "July 5, 1687: Newton's Principia is published",
+      "publisher": "Astronomy magazine",
+      "url": "https://www.astronomy.com/today-in-the-history-of-astronomy/july-5-1687-newtons-principia-is-published/"
+    },
+    {
+      "title": "Émilie du Châtelet",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/%C3%89milie_du_Ch%C3%A2telet"
+    },
+    {
+      "title": "E177: Découverte d'un nouveau principe de mécanique (Euler, 1752)",
+      "publisher": "Euler Archive, University of the Pacific",
+      "url": "https://scholarlycommons.pacific.edu/euler-works/177/"
+    },
+    {
+      "title": "Mécanique analytique",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/M%C3%A9canique_analytique"
+    },
+    {
+      "title": "Hamiltonian mechanics",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Hamiltonian_mechanics"
+    },
+    {
+      "title": "Tsiolkovsky rocket equation",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Tsiolkovsky_rocket_equation"
+    },
+    {
+      "title": "Annus mirabilis papers",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Annus_mirabilis_papers"
+    },
+    {
+      "title": "Matrix mechanics",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Matrix_mechanics"
+    },
+    {
+      "title": "Newton (unit)",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Newton_(unit)"
+    },
+    {
+      "title": "Resolution 7 of the 9th CGPM (1948)",
+      "publisher": "BIPM",
+      "url": "https://www.bipm.org/en/committees/cg/cgpm/9-1948/resolution-7"
+    },
+    {
+      "title": "Sputnik 1",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Sputnik_1"
+    },
+    {
+      "title": "The Apollo 15 Hammer-Feather Drop",
+      "publisher": "NASA Science",
+      "url": "https://science.nasa.gov/resource/the-apollo-15-hammer-feather-drop/"
+    },
+    {
+      "title": "Mars Orbiter Mission",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Mars_Orbiter_Mission"
+    },
+    {
+      "title": "Axiomata Sive Leges Motus (1687)",
+      "publisher": "The Newton Project, University of Oxford",
+      "url": "https://www.newtonproject.ox.ac.uk/view/texts/normalized/NATP00076"
+    },
+    {
+      "title": "Apollo 15",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Apollo_15"
+    }
+  ]
+}

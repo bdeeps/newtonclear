@@ -1,0 +1,171 @@
+{
+  "slug": "newtonclear",
+  "kind": "principle",
+  "box": 3,
+  "date": "2026-09-27",
+  "title": "Newton's laws of motion",
+  "question": "What are Newton's laws of motion?",
+  "principle": {
+    "type": "law",
+    "name": "Newton's laws of motion",
+    "formula": "F = m × a",
+    "formulaNote": "force = mass × acceleration: things keep moving until a force acts, a force changes motion in proportion to mass, and every force has an equal and opposite partner",
+    "idea": "Things keep doing what they are doing, staying still or moving in a straight line, unless a force pushes or pulls them. A force changes motion more for light things than heavy ones (F = m × a), and whenever you push on something, it pushes back on you just as hard.",
+    "discovered": "1687 · Isaac Newton, Philosophiæ Naturalis Principia Mathematica (London); F = ma written as an equation by Leonhard Euler, 1750",
+    "art": "apple",
+    "appliesTo": [
+      "carclear",
+      "motorcycleclear",
+      "cycleclear",
+      "dishwasherclear",
+      "washerclear",
+      "fanclear",
+      "pianoclear",
+      "mixerclear",
+      "ctscanclear"
+    ],
+    "examples": [
+      {
+        "title": "Seat belts and crumple zones",
+        "text": "In a 50 km/h crash the car stops in under a tenth of a second, but you keep going. A belt that stops you over 90 cm instead of 5 cm cuts the force on you more than ten times: F = Δp ÷ Δt.",
+        "box": "carclear"
+      },
+      {
+        "title": "Car against motorcycle off the line",
+        "text": "About 6,900 N on 1,300 kg and 1,100 N on 215 kg give both roughly 5 m/s². Once moving, power-to-weight rules: 85 W/kg for the car, 48 for a 150 cc motorcycle.",
+        "box": "motorcycleclear"
+      },
+      {
+        "title": "Leaning into a bend",
+        "text": "Turning needs a push towards the centre of m × v² ÷ r from the tyres. A rider leans until tan θ = v² ÷ gr: about 26° at 50 km/h round a 40 m bend.",
+        "box": "cycleclear"
+      },
+      {
+        "title": "Dishwasher spray arms",
+        "text": "The slanted jets push water out backwards, and the water pushes the arm forwards. Ten nozzles at half a bar spin it at about 35 rpm with no motor at all.",
+        "box": "dishwasherclear"
+      },
+      {
+        "title": "The washing machine's spin",
+        "text": "At 1,200 rpm the drum wall must push the clothes inward at about 400 g. Water slipping through the holes gets no push, so it flies straight off along the tangent.",
+        "box": "washerclear"
+      },
+      {
+        "title": "A fan pushes back",
+        "text": "Blades throw air forward, and the air pushes the fan back: about 3 N for a desk fan on high. A 1,200 mm ceiling fan hangs about 1.3 kg lighter when it runs.",
+        "box": "fanclear"
+      },
+      {
+        "title": "The piano hammer flies free",
+        "text": "The jack lets the hammer go about 2 mm before the string, so it arrives by inertia alone. It touches the string for about 2 ms and bounces straight off.",
+        "box": "pianoclear"
+      },
+      {
+        "title": "An unbalanced mixer blade",
+        "text": "A spinning lump needs m × r × ω² to keep it circling. Just 1 gram at the blade tip at 17,000 rpm pulls with about 110 N, so blades must be balanced.",
+        "box": "mixerclear"
+      },
+      {
+        "title": "The CT scanner's spinning gantry",
+        "text": "An X-ray tube whirling round the patient every 0.35 s needs a centripetal push of about 20 g; the fastest scanners, at 0.25 s a turn, need nearly 40 g.",
+        "box": "ctscanclear"
+      },
+      {
+        "title": "Rockets and walking",
+        "text": "A rocket throws its exhaust backwards and is thrown forwards, even in empty space. When you walk, your foot pushes the ground back and friction pushes you forward."
+      }
+    ]
+  },
+  "hook": "Three rules written in 1687 still run every car, fan, dishwasher and spacecraft. Push a puck on frictionless ice, crash-test a car with and without a seat belt, race a car against a motorcycle, and find out where Newton finally breaks.",
+  "thumbText": "NEWTON'S LAWS OF MOTION",
+  "field": "physics",
+  "minutes": 12,
+  "tags": [
+    "newton",
+    "laws of motion",
+    "inertia",
+    "force",
+    "acceleration",
+    "momentum",
+    "action and reaction",
+    "centripetal force",
+    "relativity",
+    "physics",
+    "three.js"
+  ],
+  "explainer": [
+    {
+      "title": "Three rules for motion",
+      "text": "Things keep still or keep moving in a straight line unless a force acts (inertia). A force makes them accelerate: a = F ÷ m. And forces come in pairs: push on something and it pushes back just as hard."
+    },
+    {
+      "title": "You keep going when the car stops",
+      "text": "In a crash the car stops in under a tenth of a second, but you carry on. A seat belt stretches your stop over about 90 cm; without one you stop in centimetres against the wheel, with more than ten times the force."
+    },
+    {
+      "title": "Force, mass and power on the road",
+      "text": "Off the line a car and a motorcycle accelerate about the same, around 5 m/s². Once moving, power-to-weight decides who pulls away. Turning needs a sideways push too, m v² ÷ r, which is why riders lean."
+    },
+    {
+      "title": "Every push pushes back",
+      "text": "A dishwasher's spray arm spins because its slanted jets push it round. A fan throws air forward and is pushed back, and a rocket throws its exhaust out behind and is thrown forward, even in space."
+    },
+    {
+      "title": "Where Newton breaks",
+      "text": "Near light speed momentum is γmv, not mv; inside atoms quantum mechanics takes over; in a spinning drum a fake centrifugal force appears. And heavy things don't fall faster: on the Moon, a hammer and a feather land together."
+    }
+  ],
+  "concepts": [
+    {
+      "term": "Inertia",
+      "def": "The way matter resists any change in its motion. More mass means more inertia."
+    },
+    {
+      "term": "Force",
+      "def": "A push or a pull, measured in newtons. One newton gives 1 kg an extra 1 m/s every second."
+    },
+    {
+      "term": "Acceleration",
+      "def": "How quickly velocity changes, in m/s every second. Turning is acceleration too."
+    },
+    {
+      "term": "Momentum",
+      "def": "Mass × velocity. Forces change it, and in any push between two things it is shared, never lost."
+    },
+    {
+      "term": "Impulse",
+      "def": "Force × time, equal to the change in momentum. A longer stop needs a smaller force."
+    },
+    {
+      "term": "Action–reaction pair",
+      "def": "Two equal and opposite forces that two objects exert on each other."
+    },
+    {
+      "term": "Centripetal force",
+      "def": "The push towards the centre that keeps anything moving in a circle: m v² ÷ r."
+    },
+    {
+      "term": "Inertial frame",
+      "def": "A point of view that isn't accelerating or spinning, where Newton's laws hold as written."
+    }
+  ],
+  "links": {},
+  "storage": [
+    {
+      "key": "newtonclear.v1",
+      "what": "Which chapters you have opened, your best quiz scores, and sound on or off."
+    }
+  ],
+  "credits": [
+    {
+      "name": "three.js",
+      "license": "MIT",
+      "url": "https://threejs.org"
+    },
+    {
+      "name": "Geist, Instrument Serif",
+      "license": "SIL OFL 1.1",
+      "url": "https://openfontlicense.org"
+    }
+  ]
+}

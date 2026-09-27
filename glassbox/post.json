@@ -1,0 +1,126 @@
+{
+  "slug": "newtonclear",
+  "box": 3,
+  "question": "What are Newton's laws of motion?",
+  "url": "https://glassbox-production-fd52.up.railway.app/e/newtonclear/",
+  "app": "https://glassbox-production-fd52.up.railway.app/newtonclear/",
+  "assets": {
+    "reel": "reel.mp4",
+    "video": "video.mp4",
+    "cover": "cover.jpg",
+    "thumb": "thumb.jpg",
+    "still": "still.jpg",
+    "historyReel": "history-reel.mp4",
+    "historySlides": [
+      "history-slide-1.jpg",
+      "history-slide-2.jpg",
+      "history-slide-3.jpg",
+      "history-slide-4.jpg",
+      "history-slide-5.jpg",
+      "history-slide-6.jpg",
+      "history-slide-7.jpg",
+      "history-slide-8.jpg",
+      "history-slide-9.jpg",
+      "history-slide-10.jpg"
+    ],
+    "slides": [
+      "slide-1.jpg",
+      "slide-2.jpg",
+      "slide-3.jpg",
+      "slide-4.jpg",
+      "slide-5.jpg",
+      "slide-6.jpg",
+      "slide-7.jpg",
+      "slide-8.jpg",
+      "slide-9.jpg",
+      "slide-10.jpg"
+    ]
+  },
+  "captions": {
+    "history": {
+      "instagram": "From Aristotle's 'everything needs a pusher' to a hammer and a feather falling side by side on the Moon: 2,300 years of working out why things move.\n\n350 BCE: Everything needs a mover\n1638: Balls rolling down ramps\n1644: Straight on, for ever\n1687: The Principia\n1750: F = ma becomes an equation\n1903: The rocket equation\n\nThe full story, with 20 moments, sources and charts: glassbox-production-fd52.up.railway.app/e/newtonclear/history (link in bio)\n\nThen play with how it works: glassbox-production-fd52.up.railway.app/newtonclear\n\n#glassbox #howitworks #explained #learnoninstagram #stem #opensource #newton #lawsofmotion #inertia #force #acceleration #momentum #history",
+      "youtube": {
+        "title": "The history of Newton's laws of motion in 45 seconds #shorts",
+        "description": "From Aristotle's 'everything needs a pusher' to a hammer and a feather falling side by side on the Moon: 2,300 years of working out why things move.\n\n350 BCE · Everything needs a mover (Aristotle)\n1638 · Balls rolling down ramps (Galileo Galilei)\n1644 · Straight on, for ever (René Descartes)\n1687 · The Principia (Isaac Newton, with Edmond Halley)\n1750 · F = ma becomes an equation (Leonhard Euler)\n1903 · The rocket equation (Konstantin Tsiolkovsky)\n\n▶ Full history: https://glassbox-production-fd52.up.railway.app/e/newtonclear/history/\n▶ Play with it: https://glassbox-production-fd52.up.railway.app/e/newtonclear/\n\n#glassbox #howitworks #explained #history"
+      }
+    },
+    "instagram": "What are Newton's laws of motion?\n\nThree rules written in 1687 still run every car, fan, dishwasher and spacecraft. Push a puck on frictionless ice, crash-test a car with and without a seat belt, race a car against a motorcycle, and find out where Newton finally breaks.\n\n→ Second law: acceleration equals force divided by mass. Double the mass, half the acceleration.\n→ Third law: every push pushes back just as hard. The lighter skater moves faster.\n→ First law: in a 50 km/h crash the car stops, but the unbelted dummy keeps going.\n→ Turning is accelerating too. The tyres must push towards the centre: F = mv² ÷ r.\n→ No motor turns a dishwasher’s spray arm. Its slanted jets push it round.\n\nPlay with it yourself. It's free and open source: glassbox-production-fd52.up.railway.app/newtonclear (link in bio)\n\nBox No. L03 of 365. Follow @glassbox.how for a new \"how it works\" every day.\n\n#glassbox #howitworks #explained #learnoninstagram #stem #opensource #newton #lawsofmotion #inertia #force #acceleration #momentum #actionandreaction #centripetalforce #relativity",
+    "carousel": "Swipe through: What are Newton's laws of motion?\n\nThree rules written in 1687 still run every car, fan, dishwasher and spacecraft. Push a puck on frictionless ice, crash-test a car with and without a seat belt, race a car against a motorcycle, and find out where Newton finally breaks.\n\nSave this for later, then play with the interactive version at glassbox-production-fd52.up.railway.app/newtonclear (link in bio).\n\nBox No. L03 · @glassbox.how\n\n#glassbox #howitworks #explained #learnoninstagram #stem #opensource #newton #lawsofmotion #inertia #force #acceleration #momentum",
+    "youtube": {
+      "title": "What are Newton's laws of motion? #shorts",
+      "description": "Three rules written in 1687 still run every car, fan, dishwasher and spacecraft. Push a puck on frictionless ice, crash-test a car with and without a seat belt, race a car against a motorcycle, and find out where Newton finally breaks.\n\n▶ Play with it: https://glassbox-production-fd52.up.railway.app/e/newtonclear/\n⌘ Source code (MIT): https://github.com/bdeeps/newtonclear\n\nBox No. L03 of 365 from Glassbox: one open-source interactive explainer every day.\n\n#glassbox #howitworks #explained"
+    },
+    "youtubeLong": {
+      "title": "What are Newton's laws of motion? (interactive explainer)",
+      "description": "Three rules written in 1687 still run every car, fan, dishwasher and spacecraft. Push a puck on frictionless ice, crash-test a car with and without a seat belt, race a car against a motorcycle, and find out where Newton finally breaks.\n\n▶ Play with the interactive version: https://glassbox-production-fd52.up.railway.app/e/newtonclear/\n⌘ Source code (MIT): https://github.com/bdeeps/newtonclear\n\nIn this video:\n• Three rules for motion. Things keep still or keep moving in a straight line unless a force acts (inertia).\n• You keep going when the car stops. In a crash the car stops in under a tenth of a second, but you carry on.\n• Force, mass and power on the road. Off the line a car and a motorcycle accelerate about the same, around 5 m/s².\n• Every push pushes back. A dishwasher's spray arm spins because its slanted jets push it round.\n• Where Newton breaks. Near light speed momentum is γmv, not mv; inside atoms quantum mechanics takes over; in a spinning drum a fake centrifugal force appears.\n\nGlassbox opens one box a day: an interactive model of how something works, plus the code behind it.\n\n#glassbox #howitworks #explained #learnoninstagram #stem"
+    },
+    "short": "What are Newton's laws of motion?\n\nThree rules written in 1687 still run every car, fan, dishwasher and spacecraft.\n\nPlay with it: https://glassbox-production-fd52.up.railway.app/e/newtonclear/",
+    "linkedin": "What are Newton's laws of motion?\n\nThree rules written in 1687 still run every car, fan, dishwasher and spacecraft. Push a puck on frictionless ice, crash-test a car with and without a seat belt, race a car against a motorcycle, and find out where Newton finally breaks.\n\n1. Three rules for motion\n2. You keep going when the car stops\n3. Force, mass and power on the road\n4. Every push pushes back\n5. Where Newton breaks\n\nI built an interactive, open-source explainer so you can pull the levers yourself. It's box No. L03 in my one-a-day project, Glassbox.\n\nTry it: https://glassbox-production-fd52.up.railway.app/e/newtonclear/\nCode: https://github.com/bdeeps/newtonclear\n\n#glassbox #howitworks #explained #learnoninstagram #stem"
+  },
+  "schedule": {
+    "at": "2026-09-27T13:00:00.000Z"
+  },
+  "targets": [
+    {
+      "service": "instagram",
+      "kind": "reel",
+      "enabled": true
+    },
+    {
+      "service": "instagram",
+      "kind": "carousel",
+      "offsetHours": 4,
+      "enabled": true
+    },
+    {
+      "service": "youtube",
+      "kind": "short",
+      "enabled": true
+    },
+    {
+      "service": "youtube",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "linkedin",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "twitter",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "threads",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "tiktok",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "instagram",
+      "kind": "history-reel",
+      "offsetHours": 2,
+      "enabled": false
+    },
+    {
+      "service": "youtube",
+      "kind": "history-short",
+      "offsetHours": 2,
+      "enabled": false
+    },
+    {
+      "service": "instagram",
+      "kind": "history-carousel",
+      "offsetHours": 6,
+      "enabled": false
+    }
+  ],
+  "thumbnailOffsetMs": 1200,
+  "updatedAt": "2026-09-27T10:30:56.597Z"
+}
